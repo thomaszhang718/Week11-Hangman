@@ -69,4 +69,4 @@ var Letter = function(wordPicked){
 }
 
 //Export the Letter constructor
-module.exports = Letter;0.
+module.exports = Letter;
